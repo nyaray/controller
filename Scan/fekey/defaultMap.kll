@@ -40,7 +40,7 @@ S0x13 : U"H";
 S0x14 : U"J";
 S0x15 : U"K";
 S0x16 : U"L";
-S0x17 : U";";
+S0x17 : U"Semicolon";
 
 
 # Row 3
@@ -50,8 +50,8 @@ S0x1A : U"C";
 S0x1B : U"V";
 S0x1C : U"B";
 
-S0x1D : U"LGui"; # Left thumb 3
-S0x1E : U"RGui"; # Right thumb 3
+S0x1D : U"Fun1"; # Left thumb 3
+S0x1E : U"Fun2"; # Right thumb 3
 
 S0x1F : U"N";
 S0x20 : U"M";
@@ -61,20 +61,20 @@ S0x23 : U"Slash";
 
 
 # Row 4
-S0x24 : U"Backtick";
+S0x24 : U"LShift";
 S0x25 : U"Esc";
-S0x26 : U"Fun1";
-S0x27 : U"LShift";
+S0x26 : U"LAlt";
+S0x27 : U"LGui";
 S0x28 : U"LCtrl";
 
-S0x29 : U"LAlt"; # Left thumb 4
-S0x2A : U"RAlt"; # Right thumb 4
+S0x29 : U"Fun3"; # Left thumb 4
+S0x2A : U"Fun4"; # Right thumb 4
 
 S0x2B : U"RCtrl";
-S0x2C : U"RShift";
-S0x2D : U"Fun2";
+S0x2C : U"RGui";
+S0x2D : U"RAlt";
 S0x2E : U"Tab";
-S0x2F : U"Equals";
+S0x2F : U"RShift";
 
 
 # Custom Action Examples

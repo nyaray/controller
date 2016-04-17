@@ -30,19 +30,19 @@
 // You can change these to give your code its own name.
 #define STR_MANUFACTURER        L"Kiibohd"
 #define STR_PRODUCT             L"Keyboard - fekey PartialMap pjrcUSB full"
-#define STR_SERIAL              L"Clean master - 2016-03-22 19:51:43 -0700"
+#define STR_SERIAL              L"Dirty fekey-wip - 2016-04-15 07:26:03 +0200"
 
 
 // Strings used in the CLI module
-#define CLI_Revision            "bfaed8f58ce8aaa307dee2c4500fee426170b8ed"
-#define CLI_Branch              "master"
-#define CLI_ModifiedStatus      "Clean"
-#define CLI_ModifiedFiles       "\r\n\t"
+#define CLI_Revision            "f267590f469edb78a4a3f695903e06f14c49c340"
+#define CLI_Branch              "fekey-wip"
+#define CLI_ModifiedStatus      "Dirty"
+#define CLI_ModifiedFiles       "\r\n\tKeyboards/fekey/buildvars.h\r\n\tKeyboards/fekey/generatedKeymap.h\r\n\tKeyboards/fekey/kll_defs.h\r\n\tScan/fekey/defaultMap.kll"
 #define CLI_RepoOrigin          "git@github.com:nyaray/controller.git"
-#define CLI_CommitDate          "2016-03-22 19:51:43 -0700"
-#define CLI_CommitAuthor        "Jacob Alexander <haata@kiibohd.com>"
+#define CLI_CommitDate          "2016-04-15 07:26:03 +0200"
+#define CLI_CommitAuthor        "Emilio Nyaray Valenzuela <emilio@nyaray.com>"
 #define CLI_Modules             "Scan(fekey) Macro(PartialMap) Output(pjrcUSB) Debug(full)"
-#define CLI_BuildDate           "2016-04-06 07:41:35 +0200"
+#define CLI_BuildDate           "2016-04-17 10:35:07 +0200"
 #define CLI_BuildOS             "Darwin-15.0.0"
 #define CLI_Arch                "arm"
 #define CLI_Chip                "mk20dx256"
